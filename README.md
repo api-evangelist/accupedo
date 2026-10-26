@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Accupedo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://accupedo.com/
+Accupedo is a daily pedometer app that accurately tracks your steps using intelligent 3D motion recognition algorithms. It works on Android and iOS, allowing users to set goals, monitor progress, and view detailed walking statistics. The app filters non-walking activities to ensure precise step counts, supporting health and fitness tracking.
+
+**Areas:** Company · Health · Fitness · MobileApp · Pedometer
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://accupedo.com/)
+- [Documentation](https://accupedo.com/usermanual.html)
+- [Privacy policy](https://accupedo.com/privacy.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/accupedo/](https://apis.io/providers/accupedo/).
